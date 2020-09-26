@@ -1,0 +1,16 @@
+Welcome to TheStorksReloaded server!
+
+If you'd like, go ahead and react to the symbol that represents your class below. 
+That way, you can connect with your classmates directly with @<class name>
+for example, @Telecom
+
+Role List:
+
+☎️: CS346 (Telecommunications)
+⌨️: CS374 (Operating Systems)
+🖥️: CS325 (Database Design)
+🔢: CS458 (Software Engineering)
+🖱️: CS279 (Linux)
+➗: CS253 (Discrete Mathematics)
+⌚: CS 212 (Algorithms)
+🏢: CS211 (Data Structures)
